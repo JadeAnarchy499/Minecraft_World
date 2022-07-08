@@ -1,0 +1,388 @@
+{
+  "goblinsanddungeons:recipes/building_blocks/scoria_brick_stairs_from_scoria": {
+    "criteria": {
+      "has_item": "2022-07-07 22:38:18 +0200"
+    },
+    "done": true
+  },
+  "goblinsanddungeons:recipes/building_blocks/scoria_stairs": {
+    "criteria": {
+      "has_item": "2022-07-07 22:38:18 +0200"
+    },
+    "done": true
+  },
+  "betterdungeons:root": {
+    "criteria": {
+      "always": "2022-07-07 22:38:18 +0200"
+    },
+    "done": true
+  },
+  "cgm:recipes/cgm/light_stock": {
+    "criteria": {
+      "has_gray_wool": "2022-07-07 22:38:18 +0200"
+    },
+    "done": true
+  },
+  "upgradednetherite:recipes/upgraded_netherite_chestplate_smithing": {
+    "criteria": {
+      "has_netherite_chestplate": "2022-07-07 22:38:18 +0200"
+    },
+    "done": true
+  },
+  "vanillatweaks:cauldron_concrete": {
+    "criteria": {
+      "tick": "2022-07-07 22:38:18 +0200"
+    },
+    "done": true
+  },
+  "upgradednetherite:recipes/upgraded_netherite_helmet_smithing": {
+    "criteria": {
+      "has_netherite_helmet": "2022-07-07 22:38:18 +0200"
+    },
+    "done": true
+  },
+  "byg:root": {
+    "criteria": {
+      "tick": "2022-07-07 22:38:18 +0200"
+    },
+    "done": true
+  },
+  "upgradednetherite:recipes/upgraded_netherite_shovel_smithing": {
+    "criteria": {
+      "has_netherite_shovel": "2022-07-07 22:38:18 +0200"
+    },
+    "done": true
+  },
+  "cgm:recipes/cgm/weighted_stock": {
+    "criteria": {
+      "has_gray_wool": "2022-07-07 22:38:18 +0200"
+    },
+    "done": true
+  },
+  "goblinsanddungeons:recipes/building_blocks/scoria_brick_wall_from_scoria": {
+    "criteria": {
+      "has_item": "2022-07-07 22:38:18 +0200"
+    },
+    "done": true
+  },
+  "uncraftable_ice:recipes/building_blocks/packed_ice": {
+    "criteria": {
+      "has_blue_ice": "2022-07-07 22:38:18 +0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:plains": "2022-07-07 22:38:18 +0200"
+    },
+    "done": false
+  },
+  "upgradednetherite:recipes/upgraded_netherite_upgrade_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2022-07-07 22:38:18 +0200"
+    },
+    "done": true
+  },
+  "goblinsanddungeons:recipes/building_blocks/scoria_brick_slab_from_scoria": {
+    "criteria": {
+      "has_item": "2022-07-07 22:38:18 +0200"
+    },
+    "done": true
+  },
+  "upgradednetherite:recipes/upgraded_netherite_axe_smithing": {
+    "criteria": {
+      "has_netherite_axe": "2022-07-07 22:38:18 +0200"
+    },
+    "done": true
+  },
+  "goblinsanddungeons:recipes/building_blocks/polished_scoria": {
+    "criteria": {
+      "has_item": "2022-07-07 22:38:18 +0200"
+    },
+    "done": true
+  },
+  "upgradednetherite:recipes/upgraded_netherite_pickaxe_smithing": {
+    "criteria": {
+      "has_netherite_pickaxe": "2022-07-07 22:38:18 +0200"
+    },
+    "done": true
+  },
+  "goblinsanddungeons:recipes/building_blocks/scoria_bricks": {
+    "criteria": {
+      "has_item": "2022-07-07 22:38:18 +0200"
+    },
+    "done": true
+  },
+  "upgradednetherite:recipes/netherite_horse_armor": {
+    "criteria": {
+      "has_netherite_ingot": "2022-07-07 22:38:18 +0200"
+    },
+    "done": true
+  },
+  "upgradednetherite:recipes/upgraded_netherite_leggings_smithing": {
+    "criteria": {
+      "has_netherite_leggings": "2022-07-07 22:38:18 +0200"
+    },
+    "done": true
+  },
+  "goblinsanddungeons:recipes/building_blocks/polished_scoria_stairs": {
+    "criteria": {
+      "has_item": "2022-07-07 22:38:18 +0200"
+    },
+    "done": true
+  },
+  "goblinsanddungeons:recipes/building_blocks/scoria_brick_wall_from_polished_scoria": {
+    "criteria": {
+      "has_item": "2022-07-07 22:38:18 +0200"
+    },
+    "done": true
+  },
+  "cgm:recipes/cgm/specialised_grip": {
+    "criteria": {
+      "has_gray_wool": "2022-07-07 22:38:18 +0200"
+    },
+    "done": true
+  },
+  "cgm:recipes/cgm/light_grip": {
+    "criteria": {
+      "has_gray_wool": "2022-07-07 22:38:18 +0200"
+    },
+    "done": true
+  },
+  "uncraftable_ice:recipes/building_blocks/ice": {
+    "criteria": {
+      "has_packed_ice": "2022-07-07 22:38:18 +0200"
+    },
+    "done": true
+  },
+  "upgradednetherite:recipes/upgraded_netherite_horse_armor": {
+    "criteria": {
+      "has_netherite_ingot": "2022-07-07 22:38:18 +0200"
+    },
+    "done": true
+  },
+  "vanillatweaks:more_mob_heads": {
+    "criteria": {
+      "tick": "2022-07-07 22:38:18 +0200"
+    },
+    "done": true
+  },
+  "upgradednetherite:recipes/upgraded_netherite_bow_smithing": {
+    "criteria": {
+      "has_netherite_bow": "2022-07-07 22:38:18 +0200"
+    },
+    "done": true
+  },
+  "goblinsanddungeons:recipes/building_blocks/chiseled_scoria_from_scoria": {
+    "criteria": {
+      "has_item": "2022-07-07 22:38:18 +0200"
+    },
+    "done": true
+  },
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2022-07-07 22:38:18 +0200"
+    },
+    "done": true
+  },
+  "db:uuid": {
+    "criteria": {
+      "requirement": "2022-07-07 22:38:18 +0200"
+    },
+    "done": true
+  },
+  "datapacksbyqryy:deadbody": {
+    "criteria": {
+      "tick": "2022-07-07 22:38:18 +0200"
+    },
+    "done": true
+  },
+  "goblinsanddungeons:recipes/building_blocks/scoria_brick_slab_from_polished_scoria": {
+    "criteria": {
+      "has_item": "2022-07-07 22:38:18 +0200"
+    },
+    "done": true
+  },
+  "upgradednetherite:recipes/upgraded_netherite_ingot": {
+    "criteria": {
+      "has_netherite_ingot": "2022-07-07 22:38:18 +0200"
+    },
+    "done": true
+  },
+  "goblinsanddungeons:recipes/building_blocks/scoria_brick_stairs_from_polished_scoria": {
+    "criteria": {
+      "has_item": "2022-07-07 22:38:18 +0200"
+    },
+    "done": true
+  },
+  "goblinsanddungeons:recipes/building_blocks/polished_scoria_slab_from_scoria_stonecutting": {
+    "criteria": {
+      "has_item": "2022-07-07 22:38:18 +0200"
+    },
+    "done": true
+  },
+  "vanillatweaks:multiplayer_sleep": {
+    "criteria": {
+      "tick": "2022-07-07 22:38:18 +0200"
+    },
+    "done": true
+  },
+  "goblinsanddungeons:recipes/building_blocks/scoria_brick_slab": {
+    "criteria": {
+      "has_item": "2022-07-07 22:38:18 +0200"
+    },
+    "done": true
+  },
+  "cgm:recipes/cgm/workbench": {
+    "criteria": {
+      "has_concrete": "2022-07-07 22:38:18 +0200"
+    },
+    "done": true
+  },
+  "vanillatweaks:player_head_drops": {
+    "criteria": {
+      "tick": "2022-07-07 22:38:18 +0200"
+    },
+    "done": true
+  },
+  "goblinsanddungeons:recipes/building_blocks/scoria_slab": {
+    "criteria": {
+      "has_item": "2022-07-07 22:38:18 +0200"
+    },
+    "done": true
+  },
+  "upgradednetherite:recipes/upgraded_netherite_sword_smithing": {
+    "criteria": {
+      "has_netherite_sword": "2022-07-07 22:38:18 +0200"
+    },
+    "done": true
+  },
+  "cgm:recipes/cgm/tactical_stock": {
+    "criteria": {
+      "has_gray_wool": "2022-07-07 22:38:18 +0200"
+    },
+    "done": true
+  },
+  "cgm:recipes/cgm/bazooka": {
+    "criteria": {
+      "has_redstone": "2022-07-07 22:38:18 +0200"
+    },
+    "done": true
+  },
+  "upgradednetherite:recipes/upgraded_netherite_boots_smithing": {
+    "criteria": {
+      "has_netherite_boots": "2022-07-07 22:38:18 +0200"
+    },
+    "done": true
+  },
+  "goblinsanddungeons:recipes/building_blocks/polished_scoria_slab": {
+    "criteria": {
+      "has_item": "2022-07-07 22:38:18 +0200"
+    },
+    "done": true
+  },
+  "goblinsanddungeons:recipes/building_blocks/scoria_bricks_from_scoria": {
+    "criteria": {
+      "has_item": "2022-07-07 22:38:18 +0200"
+    },
+    "done": true
+  },
+  "goblinsanddungeons:recipes/building_blocks/scoria_wall": {
+    "criteria": {
+      "has_item": "2022-07-07 22:38:18 +0200"
+    },
+    "done": true
+  },
+  "vanillatweaks:root": {
+    "criteria": {
+      "tick": "2022-07-07 22:38:18 +0200"
+    },
+    "done": true
+  },
+  "create:root": {
+    "criteria": {
+      "0": "2022-07-07 22:38:18 +0200"
+    },
+    "done": true
+  },
+  "vanillatweaks:custom_nether_portals": {
+    "criteria": {
+      "tick": "2022-07-07 22:38:18 +0200"
+    },
+    "done": true
+  },
+  "rotten_flesh_to_leather:recipes/misc/leather": {
+    "criteria": {
+      "has_flesh": "2022-07-07 22:38:18 +0200"
+    },
+    "done": true
+  },
+  "goblinsanddungeons:goblinsanddungeons/root": {
+    "criteria": {
+      "tick": "2022-07-07 22:38:18 +0200"
+    },
+    "done": true
+  },
+  "goblinsanddungeons:recipes/building_blocks/scoria_brick_stairs": {
+    "criteria": {
+      "has_item": "2022-07-07 22:38:18 +0200"
+    },
+    "done": true
+  },
+  "goblinsanddungeons:recipes/building_blocks/polished_scoria_stairs_from_scoria_stonecutting": {
+    "criteria": {
+      "has_item": "2022-07-07 22:38:18 +0200"
+    },
+    "done": true
+  },
+  "goblinsanddungeons:recipes/building_blocks/polished_scoria_wall": {
+    "criteria": {
+      "has_item": "2022-07-07 22:38:18 +0200"
+    },
+    "done": true
+  },
+  "byg:biomepedia_gift": {
+    "criteria": {
+      "tick": "2022-07-07 22:38:18 +0200"
+    },
+    "done": true
+  },
+  "datapacksbyqryy:root": {
+    "criteria": {
+      "tick": "2022-07-07 22:38:18 +0200"
+    },
+    "done": true
+  },
+  "goblinsanddungeons:recipes/building_blocks/chiseled_scoria_from_polished_scoria": {
+    "criteria": {
+      "has_item": "2022-07-07 22:38:18 +0200"
+    },
+    "done": true
+  },
+  "craftable_bundles_rabbit_hide:recipes/bundle_rabbit_hide": {
+    "criteria": {
+      "has_rabbit_hide": "2022-07-07 22:38:18 +0200",
+      "has_string": "2022-07-07 22:38:18 +0200"
+    },
+    "done": true
+  },
+  "goblinsanddungeons:recipes/building_blocks/chisled_scoria": {
+    "criteria": {
+      "has_item": "2022-07-07 22:38:18 +0200"
+    },
+    "done": true
+  },
+  "goblinsanddungeons:recipes/building_blocks/polished_scoria_wall_from_scoria_stonecutting": {
+    "criteria": {
+      "has_item": "2022-07-07 22:38:18 +0200"
+    },
+    "done": true
+  },
+  "goblinsanddungeons:recipes/building_blocks/scoria_brick_wall": {
+    "criteria": {
+      "has_item": "2022-07-07 22:38:18 +0200"
+    },
+    "done": true
+  },
+  "DataVersion": 2975
+}
